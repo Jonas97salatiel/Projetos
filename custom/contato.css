@@ -1,0 +1,86 @@
+/*navbar*/
+
+.cornavbar{ 
+background: #00b5d0;
+}
+
+.cortextomenu{
+color: white !important;
+font-size: 1em;
+    
+}
+
+imgacde{
+    height: 20px;
+}
+
+.ajustemenu{
+    padding-left: 20em !important;
+}
+
+.row{
+    width: 100%; !important;
+}
+
+
+/*seção 01 - contato*/
+
+.contato-section-1{
+    
+    width: 100%;
+    height: 750px;
+    background: white; 
+}
+    
+.title-contato{
+    text-align: center;
+    color: #00b5d0;
+    padding-top: 4rem;
+    
+}
+
+.form-contato{
+    padding-top: 10rem;
+}
+
+
+
+.btn-contato{
+    background: #00b5d0 !important;
+    color: white !important;
+    
+    
+}
+
+.cor-contato{
+    color: #ed4e9b !important;
+    padding-left: 2rem !important;
+}
+
+/*footer*/
+
+footer{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    
+}
+
+.ajusteimg{
+    margin-top: .5em;
+}
+
+.icons{
+    margin-top: .5em;
+}
+
+.textfooter{
+    color: white !important;
+    margin-bottom: .3rem !important;
+}
+
+.margentop{
+    margin-top: .5rem !important;
+}

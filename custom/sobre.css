@@ -1,0 +1,92 @@
+/*navbar*/
+
+.cornavbar{ 
+background: #00b5d0;
+}
+
+.cortextomenu{
+color: white !important;
+font-size: 1em;
+    
+}
+
+imgacde{
+    height: 20px;
+}
+
+.ajustemenu{
+    padding-left: 20em !important;
+}
+
+.row{
+    width: 100%; !important;
+}
+
+
+
+/*sobre*/
+
+.sobre-section-1{
+    
+    width: 100%;
+    height: 750px;
+    background: #ed4e9b; 
+}
+
+/*seção 1*/
+.backgroud{
+    
+  background-image: url("../img/sobre.png");
+  background-color: #fff;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.text-sobre{
+    color: white;
+    text-align: center;
+    padding-top: 12rem;
+    font-size: 4rem;
+}
+
+
+/*seção 2*/
+
+
+.title-sobre{
+    text-align: center;
+    padding-top: 4rem;
+    color: white;
+    
+}
+
+/*footer*/
+
+footer{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    
+}
+
+.ajusteimg{
+    margin-top: .5em;
+}
+
+.icons{
+    margin-top: .5em;
+}
+
+.textfooter{
+    color: white !important;
+    margin-bottom: .3rem !important;
+}
+
+.margentop{
+    margin-top: .5rem !important;
+}
