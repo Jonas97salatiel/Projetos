@@ -10,6 +10,12 @@ font-size: 1em;
     
 }
 
+.cortextomenu:hover{
+    background: white;
+    border-radius: .2rem;
+    color: #00b5d0 !important;
+}
+
 imgacde{
     height: 20px;
 }
